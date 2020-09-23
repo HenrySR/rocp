@@ -21,17 +21,27 @@ public class array_test {
 	//prime
 	for(int i = 0; i< ar.length; i++) {
 		int check = ar[i];
-		String prime = "is prime";
+		String prime = " is prime";
 		for (int j = 2; j < check/2; j++) {
 			if(check%j == 0) {
-				prime= "is not prime";
+				prime= " is not prime";
 			}
 		}
-		System.out.println("This " + ar[i]+ " " + prime);
+		System.out.println(ar[i]+ prime);
 	}
 	//palindrome
 	for(int i = 0; i< ar.length; i++) {
-		
+		String palin = String.valueOf(ar[i]);
+		String palindrome = " is a palindrome";
+		for (int j = 0; j < palin.length(); j++) {
+			if(palin.charAt(j)== palin.charAt(palin.length()-j-1)) {
+				
+			}
+			else {
+				palindrome = " is not a palindrome";
+			}
+		}
+		System.out.println(ar[i] + palindrome);
 		}
 	
 	}
