@@ -6,7 +6,9 @@ public class Product {
 	private int rating;
 	private double cost;
 	
-	
+	public Product() {
+		
+	}
 	
 	public Product(int id, String name, double cost) {
 		this.id = id;
