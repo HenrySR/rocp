@@ -15,11 +15,7 @@ String s="hello hi how are you doing today";
 		for (int i = 0; i < ar.length; i++) {
 			sb.append(ar[i].substring(0,ar[i].length()-1)).append(Character.toUpperCase(ar[i].charAt(ar[i].length()-1))).append(" ");
 		}
-		for (int i = ar.length; i > 0; i++) {
-			//sb.append(Character.toUpperCase(ar[i].charAt(ar[i].length()-1))).append(ar[ar.length-1].substring(1)).append(" ");
-			//sb.append(Character.toUpperCase(ar[i].charAt(i-1)))
-			
-		}
+		
 		
 		System.out.println(sb.toString().trim());
 
