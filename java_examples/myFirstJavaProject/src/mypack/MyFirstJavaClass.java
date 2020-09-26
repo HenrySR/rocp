@@ -1,5 +1,6 @@
 package mypack;
 
+import java.util.Calendar;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -7,27 +8,30 @@ import java.util.regex.Pattern;
 public class MyFirstJavaClass {
 
     public static void main(String[] args) {
-    	//blank word blank 
-        String regex = "";
-        Pattern p = Pattern.compile(regex, Pattern.CASE_INSENSITIVE);
+    	String s ="welcometojava";
+    	int k = 3;
+    	String smallest = "";
+        String largest = "";
+        int start = 0;
+        int end = k;
+        smallest = s.substring(start,end);
+        largest = s.substring(start,end);
+        // Complete the function
+        // 'smallest' must be the lexicographically smallest substring of length 'k'
+        // 'largest' must be the lexicographically largest substring of length 'k'
+        while(end !=s.length()){
+        start++;
+           end++;
+           System.out.println(s.substring(start, end).compareTo(smallest));
+        smallest = s.substring(start, end).compareTo(smallest) < 0 ? smallest=s.substring(start, end): smallest;
+        	//s.substring(start, end).compareTo(smallest) > 0? smallest=s.substring(start, end):s.substring(start, end).compareTo(largest)<0 ? largest =s.substring(start, end) : ;
+        largest = s.substring(start, end).compareTo(largest)>0 ? largest=s.substring(start, end) : largest;
         
-        Scanner in = new Scanner(System.in);
-        int numSentences = Integer.parseInt(in.nextLine());
         
-        while (numSentences-- > 0) {
-            String input = in.nextLine();
-            
-            Matcher m = p.matcher(input);
-            
-            // Check for subsequences of input that match the compiled pattern
-            while (m.find()) {
-                input = input.replaceAll(m.group(), m.group(1));
-            }
-            
-            // Prints the modified sentence.
-            System.out.println(input);
         }
         
-        in.close();
+        System.out.println(smallest +" "+largest);
+    	
+    	
     }
 }
