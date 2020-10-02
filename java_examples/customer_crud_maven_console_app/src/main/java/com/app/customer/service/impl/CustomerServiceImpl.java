@@ -88,7 +88,11 @@ public class CustomerServiceImpl implements CustomerService {
 
 	@Override
 	public Customer getCustomerByContact(long contact) throws BusinessException {
-		Customer c = dao.getCustomerByContact(contact);
+		Customer c = null;
+		if(!isValidContact(contact)) {
+			throw new BusinessException("Entered contact "+contact+" is INVALID....");
+		}else {
+		c = dao.getCustomerByContact(contact);}
 		return c;
 	}
 
