@@ -586,3 +586,326 @@
 2020-09-30 17:53:40,617 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-09-30 17:53:40,618 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2020-09-30 17:53:40,625 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 10:04:50,220 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-10-01 10:50:57,196 [Worker-34: Creating project "jdbc_demo_2"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jdbc_demo_2:jdbc_demo_2:0.0.1-SNAPSHOT @ C:\Users\HenryRosalsky\rocp\java_examples\jdbc_demo_2\pom.xml.
+2020-10-01 10:50:59,290 [Worker-34: Creating project "jdbc_demo_2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jdbc_demo_2/src/main/java
+2020-10-01 10:50:59,293 [Worker-34: Creating project "jdbc_demo_2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jdbc_demo_2/src/main/resources
+2020-10-01 10:50:59,294 [Worker-34: Creating project "jdbc_demo_2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jdbc_demo_2/src/test/java
+2020-10-01 10:50:59,295 [Worker-34: Creating project "jdbc_demo_2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jdbc_demo_2/src/test/resources
+2020-10-01 10:51:12,648 [Worker-34: Creating project "jdbc_demo_2"] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 10:51:12,671 [Worker-34: Creating project "jdbc_demo_2"] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 10:51:12,674 [Worker-34: Creating project "jdbc_demo_2"] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 10:51:12,684 [Worker-34: Creating project "jdbc_demo_2"] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 10:51:13,546 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 10:51:13,563 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 10:51:13,565 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 10:51:13,577 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 10:51:18,116 [Worker-42: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jdbc_demo_2:jdbc_demo_2:0.0.1-SNAPSHOT @ C:\Users\HenryRosalsky\rocp\java_examples\jdbc_demo_2\pom.xml.
+2020-10-01 10:51:18,442 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 10:51:18,455 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 10:51:18,457 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 10:51:18,468 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 10:51:18,935 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 10:51:18,948 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 10:51:18,951 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 10:51:18,960 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 10:51:24,811 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-10-01 10:51:25,448 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jdbc_demo_2:jdbc_demo_2:0.0.1-SNAPSHOT @ C:\Users\HenryRosalsky\rocp\java_examples\jdbc_demo_2\pom.xml.
+2020-10-01 10:51:25,619 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jdbc_demo_2/src/main/java
+2020-10-01 10:51:25,619 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jdbc_demo_2/src/main/resources
+2020-10-01 10:51:25,620 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jdbc_demo_2/src/test/java
+2020-10-01 10:51:25,621 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jdbc_demo_2/src/test/resources
+2020-10-01 10:51:25,786 [Worker-41: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 10:51:25,801 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 10:51:25,805 [Worker-41: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 10:51:25,818 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 10:51:26,209 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-10-01 10:51:26,391 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 10:51:26,401 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 10:51:26,403 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 10:51:26,413 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 10:52:05,407 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 10:52:05,415 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 10:52:05,417 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 10:52:05,425 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 10:53:22,225 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 10:53:22,235 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 10:53:22,237 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 10:53:22,246 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 10:53:22,329 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 10:53:22,338 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 10:53:22,339 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 10:53:22,351 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 10:53:29,277 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 10:53:29,288 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 10:53:29,290 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 10:53:29,306 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 10:56:30,007 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 10:56:30,018 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 10:56:30,020 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 10:56:30,033 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 10:57:34,587 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 10:57:34,600 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 10:57:34,604 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 10:57:34,617 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 11:09:33,054 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 11:09:33,063 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 11:09:33,064 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 11:09:33,076 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 11:13:01,081 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 11:13:01,093 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 11:13:01,095 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 11:13:01,105 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 11:19:07,272 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 11:19:07,291 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 11:19:07,292 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 11:19:07,304 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 11:19:51,653 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 11:19:51,665 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 11:19:51,666 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 11:19:51,677 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 11:20:02,564 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 11:20:02,572 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 11:20:02,574 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 11:20:02,583 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 11:21:07,656 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 11:21:07,664 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 11:21:07,665 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 11:21:07,673 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 11:21:26,599 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 11:21:26,607 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 11:21:26,609 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 11:21:26,618 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 11:26:09,647 [Worker-56: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 11:26:09,674 [Worker-56: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 11:26:09,684 [Worker-56: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 11:26:09,704 [Worker-56: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 11:26:20,051 [Worker-55: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 11:26:20,061 [Worker-55: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 11:26:20,063 [Worker-55: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 11:26:20,070 [Worker-55: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 11:26:34,867 [Worker-55: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 11:26:34,878 [Worker-55: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 11:26:34,879 [Worker-55: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 11:26:34,890 [Worker-55: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 11:31:52,624 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 11:31:52,632 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 11:31:52,634 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 11:31:52,641 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:07:44,121 [Worker-64: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:07:44,127 [Worker-64: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:07:44,128 [Worker-64: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:07:44,134 [Worker-64: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:11:19,284 [Worker-72: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:11:19,290 [Worker-72: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:11:19,291 [Worker-72: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:11:19,296 [Worker-72: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:11:28,755 [Worker-75: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:11:28,760 [Worker-75: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:11:28,761 [Worker-75: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:11:28,766 [Worker-75: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:11:34,919 [Worker-75: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:11:34,924 [Worker-75: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:11:34,925 [Worker-75: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:11:34,931 [Worker-75: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:12:03,948 [Worker-79: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:12:03,953 [Worker-79: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:12:03,954 [Worker-79: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:12:03,960 [Worker-79: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:12:14,481 [Worker-77: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:12:14,486 [Worker-77: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:12:14,488 [Worker-77: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:12:14,494 [Worker-77: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:12:56,164 [Worker-79: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:12:56,171 [Worker-79: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:12:56,171 [Worker-79: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:12:56,176 [Worker-79: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:13:36,707 [Worker-72: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:13:36,713 [Worker-72: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:13:36,713 [Worker-72: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:13:36,719 [Worker-72: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:13:59,641 [Worker-72: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:13:59,646 [Worker-72: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:13:59,647 [Worker-72: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:13:59,653 [Worker-72: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:14:16,165 [Worker-75: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:14:16,170 [Worker-75: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:14:16,171 [Worker-75: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:14:16,176 [Worker-75: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:14:25,887 [Worker-80: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:14:25,892 [Worker-80: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:14:25,892 [Worker-80: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:14:25,897 [Worker-80: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:15:05,275 [Worker-75: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:15:05,281 [Worker-75: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:15:05,282 [Worker-75: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:15:05,287 [Worker-75: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:15:18,771 [Worker-78: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:15:18,776 [Worker-78: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:15:18,777 [Worker-78: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:15:18,782 [Worker-78: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:16:00,265 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:16:00,270 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:16:00,270 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:16:00,275 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:16:19,688 [Worker-76: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:16:19,693 [Worker-76: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:16:19,694 [Worker-76: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:16:19,699 [Worker-76: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:27:54,181 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:27:54,187 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:27:54,187 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:27:54,193 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:28:29,412 [Worker-85: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:28:29,417 [Worker-85: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:28:29,418 [Worker-85: Launching PlayerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:28:29,424 [Worker-85: Launching PlayerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:28:36,223 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:28:36,228 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:28:36,228 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:28:36,233 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:40:15,132 [Worker-91: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:40:15,139 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 12:40:15,140 [Worker-91: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 12:40:15,146 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-01 16:27:22,390 [Worker-153: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.app.customer:customer_crud_maven_console_app:0.0.1-SNAPSHOT @ C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\pom.xml.
+2020-10-01 16:27:22,582 [Worker-153: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:27:22,589 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\main\resources
+2020-10-01 16:27:22,590 [Worker-153: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:27:22,595 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\test\resources
+2020-10-01 16:27:23,050 [Worker-150: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.app.customer:customer_crud_maven_console_app:0.0.1-SNAPSHOT @ C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\pom.xml.
+2020-10-01 16:27:23,678 [Worker-150: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:27:23,683 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\main\resources
+2020-10-01 16:27:23,684 [Worker-150: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:27:23,689 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\test\resources
+2020-10-01 16:30:29,579 [Worker-148: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:30:29,583 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\main\resources
+2020-10-01 16:30:29,583 [Worker-148: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:30:29,588 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\test\resources
+2020-10-01 16:30:32,397 [Worker-151: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:30:32,402 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\main\resources
+2020-10-01 16:30:32,403 [Worker-151: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:30:32,407 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\test\resources
+2020-10-01 16:39:01,622 [Worker-161: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:39:01,627 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\main\resources
+2020-10-01 16:39:01,628 [Worker-161: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:39:01,632 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\test\resources
+2020-10-01 16:41:31,634 [Worker-162: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:41:31,640 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\main\resources
+2020-10-01 16:41:31,641 [Worker-162: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:41:31,647 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\test\resources
+2020-10-01 16:43:35,286 [Worker-159: Launching CustomerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:43:35,292 [Worker-159: Launching CustomerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\main\resources
+2020-10-01 16:43:35,293 [Worker-159: Launching CustomerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:43:35,298 [Worker-159: Launching CustomerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\test\resources
+2020-10-01 16:45:39,303 [Worker-162: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-10-01 16:45:39,390 [Worker-162: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.app.customer:customer_crud_maven_console_app:0.0.1-SNAPSHOT @ C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\pom.xml.
+2020-10-01 16:45:39,422 [Worker-162: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /customer_crud_maven_console_app/src/main/java
+2020-10-01 16:45:39,423 [Worker-162: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /customer_crud_maven_console_app/src/test/java
+2020-10-01 16:45:39,556 [Worker-162: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:45:39,563 [Worker-162: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\main\resources
+2020-10-01 16:45:39,564 [Worker-162: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:45:39,601 [Worker-162: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\test\resources
+2020-10-01 16:45:39,918 [Worker-162: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-10-01 16:45:40,085 [Worker-156: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:45:40,093 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\main\resources
+2020-10-01 16:45:40,094 [Worker-156: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:45:40,100 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\test\resources
+2020-10-01 16:47:53,849 [Worker-168: Launching CustomerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:47:53,854 [Worker-168: Launching CustomerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\main\resources
+2020-10-01 16:47:53,855 [Worker-168: Launching CustomerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:47:53,860 [Worker-168: Launching CustomerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\test\resources
+2020-10-01 16:51:44,478 [Worker-167: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:51:44,484 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\main\resources
+2020-10-01 16:51:44,485 [Worker-167: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:51:44,490 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\test\resources
+2020-10-01 16:56:35,883 [Worker-169: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:56:35,888 [Worker-169: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\main\resources
+2020-10-01 16:56:35,889 [Worker-169: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:56:35,894 [Worker-169: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\test\resources
+2020-10-01 16:56:37,982 [Worker-168: Launching CustomerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:56:37,987 [Worker-168: Launching CustomerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\main\resources
+2020-10-01 16:56:37,988 [Worker-168: Launching CustomerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:56:37,993 [Worker-168: Launching CustomerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\test\resources
+2020-10-01 16:58:49,394 [Worker-167: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:58:49,400 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\main\resources
+2020-10-01 16:58:49,401 [Worker-167: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:58:49,405 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\test\resources
+2020-10-01 16:59:20,460 [Worker-168: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:59:20,465 [Worker-168: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\main\resources
+2020-10-01 16:59:20,466 [Worker-168: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-01 16:59:20,470 [Worker-168: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\test\resources
+2020-10-02 09:50:50,831 [Worker-241: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-02 09:50:50,840 [Worker-241: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\main\resources
+2020-10-02 09:50:50,841 [Worker-241: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-02 09:50:50,846 [Worker-241: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\test\resources
+2020-10-02 09:53:17,962 [Worker-231: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-02 09:53:17,968 [Worker-231: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\main\resources
+2020-10-02 09:53:17,969 [Worker-231: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-02 09:53:17,975 [Worker-231: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\test\resources
+2020-10-02 09:53:19,124 [Worker-231: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-02 09:53:19,129 [Worker-231: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\main\resources
+2020-10-02 09:53:19,130 [Worker-231: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-02 09:53:19,136 [Worker-231: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\test\resources
+2020-10-02 09:54:41,031 [Worker-245: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-02 09:54:41,038 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\main\resources
+2020-10-02 09:54:41,038 [Worker-245: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-02 09:54:41,043 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\test\resources
+2020-10-02 10:16:36,440 [Worker-250: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-02 10:16:36,445 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\main\resources
+2020-10-02 10:16:36,446 [Worker-250: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-02 10:16:36,454 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\test\resources
+2020-10-02 10:23:44,161 [Worker-237: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-02 10:23:44,166 [Worker-237: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\main\resources
+2020-10-02 10:23:44,167 [Worker-237: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-02 10:23:44,171 [Worker-237: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\test\resources
+2020-10-02 10:28:41,278 [Worker-252: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-02 10:28:41,282 [Worker-252: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\main\resources
+2020-10-02 10:28:41,283 [Worker-252: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-02 10:28:41,288 [Worker-252: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\test\resources
+2020-10-02 10:35:54,349 [Worker-252: Launching CustomerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-02 10:35:54,356 [Worker-252: Launching CustomerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\main\resources
+2020-10-02 10:35:54,357 [Worker-252: Launching CustomerMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-02 10:35:54,361 [Worker-252: Launching CustomerMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\test\resources
+2020-10-02 10:51:03,843 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.jar
+2020-10-02 10:51:03,921 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.jar
+2020-10-02 10:51:04,401 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bapi:BankingAPI_Rocp1:0.0.1-SNAPSHOT @ C:\Users\HenryRosalsky\rocp\java_examples\BankingAPI_Rocp1\pom.xml.
+2020-10-02 10:51:04,586 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.pom
+2020-10-02 10:51:04,691 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.pom
+2020-10-02 10:51:05,235 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.pom
+2020-10-02 10:51:05,278 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.pom
+2020-10-02 10:51:05,317 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.3.1/xstream-parent-1.3.1.pom
+2020-10-02 10:51:05,356 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.3.1/xstream-parent-1.3.1.pom
+2020-10-02 10:51:05,398 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.pom
+2020-10-02 10:51:05,450 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.pom
+2020-10-02 10:51:05,482 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.pom
+2020-10-02 10:51:05,509 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.pom
+2020-10-02 10:51:05,537 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/10/maven-shared-components-10.pom
+2020-10-02 10:51:05,567 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/10/maven-shared-components-10.pom
+2020-10-02 10:51:05,603 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/9/maven-parent-9.pom
+2020-10-02 10:51:05,796 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/9/maven-parent-9.pom
+2020-10-02 10:51:05,836 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.6/plexus-utils-1.5.6.pom
+2020-10-02 10:51:05,867 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.6/plexus-utils-1.5.6.pom
+2020-10-02 10:51:05,894 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.12/plexus-1.0.12.pom
+2020-10-02 10:51:05,926 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.12/plexus-1.0.12.pom
+2020-10-02 10:51:05,960 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.6/plexus-interpolation-1.6.pom
+2020-10-02 10:51:05,991 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.6/plexus-interpolation-1.6.pom
+2020-10-02 10:51:06,041 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.jar
+2020-10-02 10:51:06,067 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.jar
+2020-10-02 10:51:06,067 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
+2020-10-02 10:51:06,165 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
+2020-10-02 10:51:06,186 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.jar
+2020-10-02 10:51:06,199 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.jar
+2020-10-02 10:51:06,807 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BankingAPI_Rocp1/src/main/java
+2020-10-02 10:51:06,808 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BankingAPI_Rocp1/src/main/resources
+2020-10-02 10:51:06,808 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BankingAPI_Rocp1/src/test/java
+2020-10-02 10:51:06,808 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BankingAPI_Rocp1/src/test/resources
+2020-10-02 10:51:08,398 [Worker-271: Creating project "BankingAPI_Rocp1"] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-02 10:51:08,404 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 10:51:08,404 [Worker-271: Creating project "BankingAPI_Rocp1"] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-02 10:51:08,410 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 10:51:09,564 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.pom
+2020-10-02 10:51:09,660 [Worker-271: Creating project "BankingAPI_Rocp1"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.pom
+2020-10-02 10:51:09,968 [Worker-274: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-02 10:51:09,972 [Worker-274: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-02 10:51:09,974 [Worker-274: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!

@@ -25,13 +25,16 @@ public class HelloJdbc {
 			
 			//Step - 3 - Create Statement
 			Statement statement=connection.createStatement();
-			String sql="insert into `rocp_1`.`player` (`id`, `name`, `age`, `city`, `gender`, `teamname`)\r\n" + 
-					"values('107', 'Bobby', '47','Newark','male','Panthers')";
+			//insert string
+			//String sql="insert into `rocp_1`.`player` (`id`, `name`, `age`, `city`, `gender`, `teamname`)\r\n" + 
+			//		"values('107', 'Bobby', '47','Newark','male','Panthers')";
+			String sql="";
 			System.out.println("Statement Created");
 			
 			//Step - 4 - Execute Query
 			//ResultSet resultSet=statement.executeQuery(sql);
-			int executeUpdate = statement.executeUpdate(sql);
+			//int executeUpdate = statement.executeUpdate(sql);
+			
 			System.out.println("Query executed");
 			
 			//Step - 5 - Process Results
