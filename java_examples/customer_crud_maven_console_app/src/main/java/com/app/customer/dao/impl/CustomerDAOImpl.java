@@ -39,14 +39,39 @@ public class CustomerDAOImpl implements CustomerDAO {
 
 	@Override
 	public int updateCustomer(int id, long contact) throws BusinessException {
-		// TODO Auto-generated method stub
-		return 0;
+		int c=0;
+		try(Connection connection=MySqlConnection.getConnection()){
+			String sql="update customer set contact = ? where id = ?";
+			PreparedStatement preparedStatement=connection.prepareStatement(sql);
+			preparedStatement.setInt(2, id);
+			preparedStatement.setLong(1, contact);
+			c=preparedStatement.executeUpdate();
+			if(c==0) {
+				throw new BusinessException("Customer Contact update failed... Please try again");
+			}
+		} catch (ClassNotFoundException | SQLException e) {
+			System.out.println(e); //for test
+			throw new BusinessException("Internal error occured... Kindly contact SYSADMIN!!!!!....");
+		}
+		return c;
 	}
 
 	@Override
 	public int deleteCustomer(int id) throws BusinessException {
-		// TODO Auto-generated method stub
-		return 0;
+		int c = 0;
+		try(Connection connection = MySqlConnection.getConnection()){
+			String sql = "delete from customer where id = ?";
+			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+			preparedStatement.setInt(1, id);
+			c = preparedStatement.executeUpdate();
+			if(c==0) {
+				throw new BusinessException("Customer Deletion failed... Please try again");
+			}
+		}catch(ClassNotFoundException | SQLException e) {
+			System.out.println(e); //for test
+			throw new BusinessException("Internal error occured... Kindly contact SYSADMIN!!!!!....");
+		}
+		return c;
 	}
 
 	@Override

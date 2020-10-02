@@ -63,14 +63,14 @@ public class CustomerServiceImpl implements CustomerService {
 
 	@Override
 	public int updateCustomer(int id, long contact) throws BusinessException {
-		// TODO Auto-generated method stub
-		return 0;
+		int c = dao.updateCustomer(id, contact);
+		return c;
 	}
 
 	@Override
 	public int deleteCustomer(int id) throws BusinessException {
-		// TODO Auto-generated method stub
-		return 0;
+		int c = dao.deleteCustomer(id);
+		return c;
 	}
 
 	@Override

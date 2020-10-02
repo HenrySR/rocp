@@ -63,18 +63,48 @@ public class CustomerMain {
 					System.out.println(e.getMessage());
 				}
 				break;
-			case 2:System.out.println("Thanks for your interest.. This is still under construction");
-
+			case 2:System.out.println("Enter the customer id and new contact");
+				int id2 = 0;
+				try {
+					System.out.println("Enter Id");
+					id2 =Integer.parseInt(sc.nextLine());
+				}catch(NumberFormatException e) {
+					System.out.println("Id cannot be alphabets");
+					break;}
+				
+				System.out.println("Enter Contact");
+				long contactChanged =(Long.parseLong(sc.nextLine()));
+			try {
+				if(service.updateCustomer(id2,contactChanged)!=0) {
+					System.out.println("Contact Updated sucessfully.....");
+				}
+			} catch (BusinessException e) {
+				System.out.println(e.getMessage());
+			}
 				break;
-			case 3:System.out.println("Thanks for your interest.. This is still under construction");
-
+			case 3:System.out.println("Enter Customer id for deletion");
+				int deletionId =0;
+				try {
+					deletionId = Integer.parseInt(sc.nextLine());
+				} catch (NumberFormatException e) {
+					System.out.println("Id cannot be alphabets");
+					break;
+				}
+				try {
+					if(service.deleteCustomer(deletionId)!=0) {
+						System.out.println("Contact Deleted sucessfully.....");
+					}
+				} catch (BusinessException e) {
+					System.out.println(e.getMessage());
+				}
 				break;
 			case 4:System.out.println("Enter the id of the customer you are looking for");
 			int id = 0;
 			try {
 				id = Integer.parseInt(sc.nextLine());
 			} catch (NumberFormatException e) {
-
+				System.out.println("Id cannot be alphabets");
+				break;
 			}
 			try {
 				Customer customersById=service.getCustomerById(id);
