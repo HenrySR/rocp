@@ -949,3 +949,6 @@
 2020-10-02 11:36:45,799 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\test\resources
 2020-10-02 12:35:49,610 [Worker-308: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2020-10-02 12:35:49,617 [Worker-308: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\main\resources
+2020-10-02 12:35:49,618 [Worker-308: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-02 12:35:49,622 [Worker-308: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HenryRosalsky\rocp\java_examples\customer_crud_maven_console_app\src\test\resources
+2020-10-05 10:54:32,351 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
